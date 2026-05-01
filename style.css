@@ -1,0 +1,50 @@
+/**** Reset ****/
+
+*,
+::before,
+::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/**** html ****/
+
+html {
+    font-size: 10px;
+}
+
+/**** body ****/
+
+body {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    font-weight: 300;
+    font-family: "Alata", sans-serif;
+    color: #fffffe;
+    background-color: #111111;
+}
+
+/**** h1 *****/
+
+.target {
+    font-size: 5rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    word-spacing: 3px;
+    cursor: pointer;
+}
+
+span {
+    color: #dddddd;
+    transition: all 250ms ease-in-out;
+}
+
+.target:hover span {
+    color: #00ff00;
+    text-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00, 0 0 25px #00ff00;
+}
