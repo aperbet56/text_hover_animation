@@ -6,7 +6,7 @@ Création d'un effet sur le texte au survol de celui-ci en HTML5, CSS3 et JavaSc
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/text_hover_animation/
 
 ## Projet développé avec
 
