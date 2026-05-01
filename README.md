@@ -1,5 +1,11 @@
 ## TEXTE HOVER ANIMATION
 
+![Design preview for the project](./img/preview.png)
+
+- Animation au survol du texte
+
+![Design preview for the project](./img/preview-1.png)
+
 ## Le challenge
 
 Création d'un effet sur le texte au survol de celui-ci en HTML5, CSS3 et JavaScript.
